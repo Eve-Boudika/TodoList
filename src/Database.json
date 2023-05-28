@@ -1,0 +1,53 @@
+[
+    {
+      "nombre de tarea": "barrer",
+      "dias": ["lunes", "miércoles"],
+      "necesita comprar": true
+    },
+    {
+      "nombre de tarea": "limpiar ventanas",
+      "dias": ["martes", "viernes"],
+      "necesita comprar": false
+    },
+    {
+      "nombre de tarea": "ordenar armario",
+      "dias": ["jueves"],
+      "necesita comprar": false
+    },
+    {
+      "nombre de tarea": "regar plantas",
+      "dias": ["miércoles", "sábado"],
+      "necesita comprar": false
+    },
+    {
+      "nombre de tarea": "pasear al perro",
+      "dias": ["lunes", "martes", "jueves"],
+      "necesita comprar": false
+    },
+    {
+      "nombre de tarea": "hacer ejercicio",
+      "dias": ["martes", "jueves", "sábado"],
+      "necesita comprar": false
+    },
+    {
+      "nombre de tarea": "preparar cena",
+      "dias": ["lunes", "miércoles", "viernes"],
+      "necesita comprar": true
+    },
+    {
+      "nombre de tarea": "estudiar para el examen",
+      "dias": ["martes", "miércoles", "jueves"],
+      "necesita comprar": false
+    },
+    {
+      "nombre de tarea": "pintar la habitación",
+      "dias": ["sábado", "domingo"],
+      "necesita comprar": true
+    },
+    {
+      "nombre de tarea": "reparar la bicicleta",
+      "dias": ["sábado"],
+      "necesita comprar": true
+    }
+  ]
+  
